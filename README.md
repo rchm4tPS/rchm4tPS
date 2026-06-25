@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there. I am Rachmat 👋
 
-<!--
-**rchm4tPS/rchm4tPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA Engineer | Frontend Dev**
 
-Here are some ideas to get you started:
+I build clean, responsive, modern, reliable, and user-centric interfaces that makes your app experience feels seamless with quality mindset and 2+ years of experience. I work on many solo projects, mostly with the help of AI Agents to deliver my purpose into tangible products that is continuously reviewed and revised by me to fulfill the ever-changing requirements. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Main tech stacks
+**Scripts**<br>
+TypeScript and JavaScript
+
+**Frameworks**<br>
+React.js and Next.js
+
+**Styling** <br>
+TailwindCSS and Bootstrap
+
+**Others**<br>
+Express.js, Python, Neo4j, Vector Databases, LLMs
+
+## 📫 How to reach me
+- **Email**: rachmatpurwa393@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/rachmat-purwa-saputra-90b775278/
+- **Portfolio Website**: https://rachmat-portfolio.vercel.app/
